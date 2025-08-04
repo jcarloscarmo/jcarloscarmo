@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # <<<<<<<<<<<<<<<< Adicione este bloco
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -19,5 +21,4 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # Adicione esta linha para que o arquivo seja salvo na branch 'main'
           target_branch: main
