@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarloscarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake](https://github.com/jcarloscarmo/jcarloscarmo/blob/main/dist/github-contribution-grid-snake-dark.svg)
+![snake](https://github.com/jcarloscarmo/jcarloscarmo/blob/output/dist/github-contribution-grid-snake.svg)
