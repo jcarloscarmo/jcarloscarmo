@@ -16,24 +16,12 @@ Here are some ideas to get you started:
 
 
 
+## 🐍 Snake Contributions
 
-<div>
-
-<a href="https://github.com/jcarloscarmo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarloscarmo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarloscarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Snake animation (light)](https://raw.githubusercontent.com/jcarloscarmo/jcarloscarmo/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation (dark)](https://raw.githubusercontent.com/jcarloscarmo/jcarloscarmo/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-
-<picture>
-
-
-![Snake animation](https://raw.githubusercontent.com/jcarloscarmo/jcarloscarmo/main/dist/github-contribution-grid-snake.svg)
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcarloscarmo/jcarloscarmo/main/dist/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/jcarloscarmo/jcarloscarmo/main/dist/github-contribution-grid-snake.svg" />
-</picture>
 
 
 
