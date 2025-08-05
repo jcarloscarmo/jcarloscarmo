@@ -26,6 +26,16 @@ Atualmente, estou em transição para o setor de tecnologia, estudando programa�
 - Lógica de programação
 - Back-end (em breve)
 
+  ---
+
+### 🧑‍💻 Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
 ---
 
 ### 🎓 Formação & Cursos
@@ -42,15 +52,7 @@ Atualmente, estou em transição para o setor de tecnologia, estudando programa�
 - Experiência anterior em telecom (fibra óptica)
 - Gestão de pequenos negócios e atendimento ao cliente
 
----
 
-### 🧑‍💻 Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
