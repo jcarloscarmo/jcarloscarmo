@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 
 
-![Snake animation](https://raw.githubusercontent.com/jcarloscarmo/jcarloscarmo/main/dist/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcarloscarmo/jcarloscarmo/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jcarloscarmo/jcarloscarmo/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
