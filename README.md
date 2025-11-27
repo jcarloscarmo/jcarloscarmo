@@ -65,20 +65,7 @@ Estou aprofundando meus conhecimentos em **Back-end**:
 - **Telecom:** Experiência anterior com instalação e manutenção de fibra óptica.
 - **Gestão:** Experiência prévia no setor de alimentação.
 
----
 
-### 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarloscarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarloscarmo&layout=compact&langs_count=7&theme=dracula"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
